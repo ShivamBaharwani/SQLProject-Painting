@@ -2,8 +2,7 @@
 An SQL project for museum painting management, providing detailed information on price, canvas size, city information, famous paintings, timings, popularity, etc. Efficiently query and analyze data to explore the rich cultural heritage and trends within museum collections.
 
 # Data source
-[🖼️ Famous Paintings : kaggle.com]
-(https://www.kaggle.com/datasets/mexwell/famous-paintings)
+[🖼️ Famous Paintings: kaggle.com](https://www.kaggle.com/datasets/mexwell/famous-paintings)
 
 ## SPETS that I use when working with this data:
 1. Get the data from kaggle.com.
