@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/mexwell/famous-paintings
 ### Python script to perform the following steps:
 2. Connect to the database 
 3. Created an engine to upload files
-4. Upload the data as an SQL file after loading it from a CSV file. Using Pandas Library
-   *Python script: csv_to_sql.py*
+4. Upload the data as an SQL file after loading it from a CSV file Using Pandas Library.
+     *Python script: csv_to_sql.py*
 5. Wrote SQL queries to get information from the tables.
 
