@@ -10,6 +10,6 @@ https://www.kaggle.com/datasets/mexwell/famous-paintings
 2. Connect to the database 
 3. Created an engine to upload files
 4. Upload the data as an SQL file after loading it from a CSV file Using Pandas Library.
-     *Python script: csv_to_sql.py*
+     *Python script: [csv_to_sql.py](https://github.com/ShivamBaharwani/SQLProject-Painting/blob/main/csv_to_sql.py)*
 5. Wrote SQL queries to get information from the tables.
 
